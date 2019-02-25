@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Audio-Brightness Manager</string>
+    <string name="adjust_screen_brightness">ADJUST SCREEN BRIGHTNESS</string>
+    <string name="adjust_alarm_volume">ADJUST ALARM VOLUME</string>
+    <string name="adjust_music_volume">ADJUST MUSIC VOLUME</string>
+    <string name="adjust_voice_volume">ADJUST VOICE VOLUME</string>
+    <string name="adjust_system_volume">ADJUST SYSTEM VOLUME</string>
+    <string name="adjust_screen_volume">ADJUST SCREEN VOLUME</string>
+    <string name="battery_percentage_info">BATTERY PERCENTAGE INFO</string>
+    <string name="share">SHARE</string>
+    <string name="exit">EXIT</string>
+</resources>
